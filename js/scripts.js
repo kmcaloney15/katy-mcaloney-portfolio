@@ -41,7 +41,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
     const portfolio2 = document.body.querySelector("#portfolio2");
         if (portfolio) {
             portfolio2.addEventListener("click", () => {
-                window.location.href = "https://clearsight-sei.herokuapp.com";
+                window.location.href = "https://great-reads-project.herokuapp.com";
             });
     }
 
